@@ -1,3 +1,5 @@
+// Voting system with C
+
 #include <stdio.h>
 int main(){
     // Voting system with condition
